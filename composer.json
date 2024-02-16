@@ -1,0 +1,27 @@
+{
+    "name": "ultra/enum-cases",
+    "type": "library",
+    "description": "Traits that add a little extra functionality to your enums.",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dlsrc/ultra-enum-case"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Dmitry Lebedev",
+            "email": "dl@adios.ru",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "Ultra\\Enum\\" : "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.3"
+    }
+}
