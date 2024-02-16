@@ -6,7 +6,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/dlsrc/ultra-enum-case"
+            "url": "https://github.com/dlsrc/ultra-enum-cases"
         }
     ],
     "authors": [
