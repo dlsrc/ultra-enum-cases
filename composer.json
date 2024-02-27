@@ -1,5 +1,6 @@
 {
     "name": "ultra/enum-cases",
+    "version": "1.0.0",
     "type": "library",
     "description": "Traits that add a little extra functionality to your enums.",
     "license": "MIT",
