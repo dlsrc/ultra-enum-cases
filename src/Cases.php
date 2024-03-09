@@ -19,7 +19,7 @@ trait Cases {
 			}
 		}
 
-		return null;
+		return $default;
 	}
 
 	/**
